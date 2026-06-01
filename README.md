@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Arslan 👋</h1>
 
 <p align="center">
-  <b>CS Student @ SEECS NUST · Co-founder @ Kantay.pk</b><br/>
+  <b>Software Engineering Student @ SEECS NUST · Co-founder @ Kantay.pk</b><br/>
   <i>Building things that matter — ML, backend systems & Android apps</i>
 </p>
 
@@ -20,8 +20,8 @@
 
 ## 🧑‍💻 About me
 
-- 🎓 Computer Science student at **SEECS, NUST Islamabad**
-- 🚀 Co-founded **[Kantay.pk](https://kantay.pk)** — working on real-world product challenges
+- 🎓 Software Engineering student at **SEECS, NUST Islamabad**
+- 🚀 Co-founded Kantay.pk — working on real-world product challenges
 - 🔍 Actively exploring internship opportunities in ML, backend, and data engineering
 - 📚 Currently taking **Operating Systems (CS-330)** and diving deep into systems programming
 - 🤝 Open to collaborating on Python, ML, or Android projects
