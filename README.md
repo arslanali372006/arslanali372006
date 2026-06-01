@@ -83,6 +83,6 @@
 
 - 💼 LinkedIn: [arslan-ali-23793730a](https://linkedin.com/in/arslan-ali-23793730a)
 - 📧 Email: arslanalik2006@gmail.com
-- 🌐 Startup: [kantay.pk](https://kantay.pk)
+- 🌐 Startup: [kantay.pk](https://www.instagram.com/kantay.pk/)
 
 <p align="center"><i>"The best way to learn is to build."</i></p>
