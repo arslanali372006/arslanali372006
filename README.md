@@ -22,8 +22,7 @@
 
 - 🎓 Software Engineering student at **SEECS, NUST Islamabad**
 - 🚀 Co-founded Kantay.pk — working on real-world product challenges
-- 🔍 Actively exploring internship opportunities in ML, backend, and data engineering
-- 📚 Currently taking **Operating Systems (CS-330)** and diving deep into systems programming
+- 🔍 Actively exploring opportunities in ML, backend, and data engineering
 - 🤝 Open to collaborating on Python, ML, or Android projects
 
 ---
